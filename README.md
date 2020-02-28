@@ -2,6 +2,8 @@
 Repository for slides and talks.
 
 ### 2019
+* [云原生应用万节点分钟级分发协同实践 / Collaborative Cloud-Native Application Distribution across Tens of Thousands of Nodes in Minutes](https://www.alibabacloud.com/blog/collaborative-cloud-native-application-distribution-across-tens-of-thousands-of-nodes-in-minutes_595697) on *2019.12.30 Alibaba Cloud Community*
+* [YAML 模版老去？Helm Chart 或将应用分发事实标准 / Helm Chart is becoming the de facto standard for application distribution](https://www.infoq.cn/article/dWc0IPNGUOGQ4KBAp*9G) on *2019.8.12 InfoQ*
 * [阿里云容器服务 - 如何解决大规模应用分发难？ / Alibaba Cloud ACK: Best Practice of Large Scale Application Deployment]() on *2019.6.24 KubeCon CloudNativeCon China 2019 co-events*
 
 ### 2017
